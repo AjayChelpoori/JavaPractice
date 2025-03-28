@@ -1,4 +1,4 @@
-package javaPractice;
+package javaProgramPractice.arrays;
 
 public class BubbleSort {
 

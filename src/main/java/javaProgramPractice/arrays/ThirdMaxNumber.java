@@ -1,4 +1,4 @@
-package javaPractice.arrays;
+package javaProgramPractice.arrays;
 
 public class ThirdMaxNumber {
     public static void main(String[] args){

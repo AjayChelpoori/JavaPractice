@@ -1,4 +1,4 @@
-package javaPractice;
+package javaProgramPractice.chars;
 
 public class Vowels {
     public static void main(String[] args){

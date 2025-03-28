@@ -1,4 +1,4 @@
-package javaPractice;
+package javaProgramPractice.numbers;
 
 public class CheckPrimeNumbers {
 

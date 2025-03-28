@@ -1,4 +1,4 @@
-package javaPractice;
+package javaProgramPractice.numbers;
 
 public class ArmstrongNumber {
     public static void main(String[] args){
@@ -15,5 +15,21 @@ public class ArmstrongNumber {
         }else {
             System.out.print(original+" is not a amstrongnumber");
         }
+    }
+
+    public static class SwapTwoNumbers {
+        public static void main(String[] args){
+
+            int a=10 , b=8;
+            System.out.println("before swap A = "+a+"; B = "+b);
+            // sawpping two numbers
+            a = a+b;
+            b= a-b;
+            a= a-b;
+            System.out.println("after swap A = "+a+"; B = "+b);
+
+        }
+
+
     }
 }

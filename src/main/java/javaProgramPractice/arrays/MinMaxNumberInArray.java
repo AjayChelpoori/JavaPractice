@@ -1,4 +1,4 @@
-package javaPractice.arrays;
+package javaProgramPractice.arrays;
 
 public class MinMaxNumberInArray {
     public static void main(String[] args){

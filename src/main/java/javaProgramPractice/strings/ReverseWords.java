@@ -1,4 +1,4 @@
-package javaPractice;
+package javaProgramPractice.strings;
 
 public class ReverseWords {
     public static void main(String[] args){
