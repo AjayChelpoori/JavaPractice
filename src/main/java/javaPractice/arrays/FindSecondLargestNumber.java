@@ -1,4 +1,4 @@
-package javaPractice;
+package javaPractice.arrays;
 
 public class FindSecondLargestNumber {
     public static void main(String[] args){
